@@ -1,3 +1,3 @@
 # Calculator
-Created an non graphical calculator with python
+It is an non graphical calculator with python
 
